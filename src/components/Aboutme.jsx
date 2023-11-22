@@ -1,6 +1,6 @@
 "use client";
 import React, { useTransition, useState } from "react";
-import Image from "next/image";
+import Image from "../assets/image/tylerfarrior.png"
 import TabButton from "./TabButton";
 
 const TAB_DATA = [
