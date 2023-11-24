@@ -5,7 +5,7 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import NavLinks from "./components/NavLinks";
-
+import ProjectCards from "./components/ProjectCards";
 
 export default function Home() {
   return (
@@ -17,6 +17,7 @@ export default function Home() {
         <Projects />
         <Contact />
         <NavLinks />
+        <ProjectCards />
       </div>
       <Footer />
     </main>
