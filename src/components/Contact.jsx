@@ -5,7 +5,7 @@ import React, { useState } from "react";
 // import Link from "next/link";
 //  import Image from "next/image";
 
-const EmailSection = () => {
+const Contact = () => {
   const [emailSubmitted, setEmailSubmitted] = useState(false);
 
   const handleSubmit = async (e) => {
@@ -16,7 +16,7 @@ const EmailSection = () => {
       message: e.target.message.value,
     };
     const JSONdata = JSON.stringify(data);
-    const endpoint = "/api/send";
+    // const endpoint = "/api/send";
 
     // Form the request for sending data to the server.
     const options = {
@@ -130,4 +130,4 @@ const EmailSection = () => {
   );
 };
 
-export default EmailSection;
+export default Contact;

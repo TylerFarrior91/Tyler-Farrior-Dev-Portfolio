@@ -4,7 +4,7 @@ import Aboutme from "./components/Aboutme";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import NavLinks from "./components/NavLinks";
+import NavLink from "./components/NavLink";
 import ProjectCards from "./components/ProjectCards";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
         <Aboutme />
         <Projects />
         <Contact />
-        <NavLinks />
+        <NavLink />
         <ProjectCards />
       </div>
       <Footer />

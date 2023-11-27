@@ -1,9 +1,9 @@
 "use client";
 import React from "react";
 //  import Image from "";
-//  import { TypeAnimation } from "react-type-animation";
-//  import { motion } from "framer-motion";
-  // import Link from "next/link";
+  import { TypeAnimation } from "react-type-animation";
+  import { motion } from "framer-motion";
+ import {Link} from "react-router-dom";
 
 const HeroSection = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-// import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline";
-// import Link from "next/link";
+ import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline";
+import {Link} from "react-router-dom";
 
 const ProjectCard = ({ imgUrl, title, description, gitUrl, previewUrl }) => {
   return (
