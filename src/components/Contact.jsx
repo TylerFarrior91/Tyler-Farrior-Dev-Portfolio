@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
-//  import GithubIcon from "../../../public/github-icon.svg";
-//  import LinkedinIcon from "../../../public/linkedin-icon.svg";
-// import Link from "next/link";
-//  import Image from "next/image";
+import GithubIcon from "../assets/image/github-icon.svg";
+  import LinkedinIcon from "../assets/image/linkedin-icon.svg";
+ import {Link} from "react-router-dom";
+
 
 const Contact = () => {
   const [emailSubmitted, setEmailSubmitted] = useState(false);
@@ -56,11 +56,11 @@ const Contact = () => {
           try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
-            <Image src={GithubIcon} alt="Github Icon" />
+          <Link to="github.com">
+            <img src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="linkedin.com">
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
+          <Link to="linkedin.com">
+            <img src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>
       </div>

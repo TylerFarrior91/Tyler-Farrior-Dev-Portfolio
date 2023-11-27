@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import projectData from "../proj.json"
+import projectData from "../proj.json"
 
 const Projects = () => {
   const [projectArray] = useState(projectData)
