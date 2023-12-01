@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://matter-of-taste-2cb992252e34.herokuapp.com/",
   },
   {
     id: 2,
