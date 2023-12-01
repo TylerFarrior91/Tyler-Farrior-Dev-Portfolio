@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Matter Of Taste",
-    description: "Project 1 description",
+    description: "Matter of Taste is your culinary haven, offering a curated collection of diverse recipes designed for every cook, from beginners to seasoned chefs. Discover easy-to-follow recipes, cooking tips, and vibrant food inspiration. We simplify cooking, celebrate seasonal ingredients, and embrace various dietary preferences. Join our community, explore food cultures, and transform your kitchen into a creative sanctuary. At Matter of Taste, every dish is a delightful adventure waiting to happen. Start your flavorful journey today!",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TylerFarrior91/Matter-of-Taste/",
