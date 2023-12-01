@@ -11,7 +11,7 @@ const projectsData = [
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/TylerFarrior91/Matter-of-Taste/",
     previewUrl: "https://matter-of-taste-2cb992252e34.herokuapp.com/",
   },
   {
