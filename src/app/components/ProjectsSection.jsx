@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TylerFarrior91/JMC-Publishing",
-    previewUrl: "/",
+    previewUrl: "https://tylerfarrior91.github.io/JMC-Publishing/",
   },
   {
     id: 3,
