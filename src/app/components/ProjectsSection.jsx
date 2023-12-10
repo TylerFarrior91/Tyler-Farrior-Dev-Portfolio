@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: "Shelf-Movies Website",
     description: "Project 3 description",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
