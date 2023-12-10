@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TylerFarrior91/Shelf-Movies",
-    previewUrl: "/",
+    previewUrl: "https://miekooooo.github.io/project-1/",
   },
   {
     id: 4,
