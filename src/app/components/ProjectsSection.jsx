@@ -29,7 +29,7 @@ const projectsData = [
     description: "ShelfMovies A simple movie website that has a place that shows popular movies with trailers",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/TylerFarrior91/Shelf-Movies",
     previewUrl: "/",
   },
   {
