@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Shelf-Movies Website",
-    description: "Project 3 description",
+    description: "ShelfMovies A simple movie website that has a place that shows popular movies with trailers",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
