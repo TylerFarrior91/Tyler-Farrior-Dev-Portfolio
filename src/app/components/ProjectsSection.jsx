@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "JMC Publishing Website",
-    description: "Project 2 description",
+    description: "JMC Publishing is an independent company focused on establishing new and fresh fantasy content and building new worlds... Saturday Morning for the former 80's and 90's kids and the new mythology for the youths.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TylerFarrior91/JMC-Publishing",
