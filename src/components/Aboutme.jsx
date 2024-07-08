@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>GraphQl</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>TypeScript</li>
       </ul>
     ),
   },
