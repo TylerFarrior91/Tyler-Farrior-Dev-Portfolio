@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "tylerfarriordevportfolio",
   "private": true,
   "version": "0.0.0",
@@ -34,81 +33,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-=======
-  
-  "name": "portfolio-website",
-  
-  "version": "0.1.0",
-  
-  "private": true,
-  
-  "scripts": {
-  
-    
-  "dev": "next dev",
-  
-    
-  "build": "next build",
-  
-    
-  "start": "next start",
-  
-    
-  "lint": "next lint"
-  
-  },
-  
-  "dependencies": {
-  
-    
-  "@heroicons/react": "^2.0.18",
-  
-    
-  "autoprefixer": "10.4.15",
-  
-    
-  "encoding": "^0.1.13",
-  
-    
-  "eslint": "8.47.0",
-  
-    
-  "eslint-config-next": "13.4.15",
-  
-    
-  "framer-motion": "^10.16.1",
-  
-    
-  "next": "^13.5.6",
-  
-    
-  "postcss": "^8.4.32",
-  
-    
-  "react": "18.2.0",
-  
-    
-  "react-animated-numbers": "^0.16.0",
-  
-    
-  "react-dom": "18.2.0",
-  
-    
-  "react-type-animation": "^3.1.0",
-  
-    
-  "resend": "^1.1.0",
-  
-    
-  "tailwindcss": "3.3.3"
-  
-  },
-  
-  "devDependencies": {
-  
-    
-  "gh-pages": "^6.1.0"
-  
->>>>>>> 6fff0bd2cb89023a6be0754cd632da1ee38cc08c
   }
 }
