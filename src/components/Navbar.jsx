@@ -1,8 +1,8 @@
 "use client";
-import {Link} from "react-router-dom";
+import Link from "next/link";
 import React, { useState } from "react";
- import NavLink from "./NavLink";
- import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
+import NavLink from "./NavLink";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import MenuOverlay from "./MenuOverlay";
 
 const navLinks = [
@@ -30,7 +30,7 @@ const Navbar = () => {
           href={"/"}
           className="text-2xl md:text-5xl text-white font-semibold"
         >
-          LOGO
+        
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (

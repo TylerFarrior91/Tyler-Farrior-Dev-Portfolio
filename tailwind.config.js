@@ -1,7 +1,3 @@
-
-import tailwindccsforms from '@tailwindcss/forms'
-
-
 /** @type {import('tailwindcss').Config} */
 const colors = require("tailwindcss/colors");
 module.exports = {
@@ -20,9 +16,9 @@ module.exports = {
     },
     colors: {
       ...colors,
-      primary: colors.purple,
-      secondary: colors.pink,
+      primary: colors.sky,
+      secondary: colors.neutral,
     },
   },
-  plugins: [tailwindccsforms],
+  plugins: [],
 };
